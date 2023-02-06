@@ -1,0 +1,6 @@
+Entrance > NORTH > Main
+Main > WEST > Left
+Main > EAST > Right
+Main > SOUTH > Entrance
+Left > EAST > Main
+Right > WEST > Main 

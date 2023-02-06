@@ -1,0 +1,199 @@
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Hallway.
+There is nothing in this room.
+
+>>>
+You move north, arriving at the LivingRoom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the LivingRoom.
+You notice the cushion on the couch is covering something
+
+>>>
+You move west, arriving at the Bedroom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Bedroom.
+You notice that your bed is a mess...
+
+>>>
+The enormity of the mess intimidates you, you lose your motivation to clean the bed
+
+>>>
+You move north, arriving at the Closet.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Closet.
+You notice something hidden away behind all your shirts
+
+>>>
+You move your shirts asside and discover a much fancier shirt
+
+>>>
+You move west, arriving at the Bedroom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Bedroom.
+You notice that your bed is a mess...
+
+>>>
+You move east, arriving at the LivingRoom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the LivingRoom.
+You notice the cushion on the couch is covering something
+
+>>>
+You move north, arriving at the Kitchen.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Kitchen.
+A delicious piece of cake has been left out on the table. No one is looking...
+
+>>>
+You feel no guilt whatsoever and take the cake
+
+>>>
+You move north and arrive at the Yard.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Yard.
+There is nothing in this room.
+
+>>>
+You move south and arrive at the Kitchen.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Kitchen.
+An empty table stands in the kitchen, devoid of cake.
+
+>>>
+You move east and arrive at the Attic.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Attic.
+The room is extremely dark, something's not right...
+
+>>>
+You can't go that way.
+
+>>>
+You can't go that way.
+
+>>>
+You can't go that way.
+
+>>>
+You can't go that way.
+
+>>>
+You can't do that.
+
+>>>
+Bye!
+
+
+
+
+
+

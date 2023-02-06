@@ -1,0 +1,18 @@
+N
+W
+MAKE BED
+N
+MOVE SHIRTS
+S
+E
+N
+TAKE CAKE
+N
+S
+E
+N
+S
+E
+W
+CRY
+QUIT

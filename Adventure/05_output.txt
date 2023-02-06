@@ -1,0 +1,147 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Hallway.
+There is nothing in this room.
+
+>>>
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Hallway.
+There is nothing in this room.
+
+>>>
+You move north, arriving at the LivingRoom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the LivingRoom.
+You notice the cushion on the couch is covering something
+
+>>>
+#00: Chocolate Cake       - Take the cake from the kitchen table. 
+#01: Tooth Brush          - Brush your teeth. 
+#02: Comfy Pillow         - Make your bed. 
+#03: Good Movie           - Move the cushion.
+
+>>>
+You move north, arriving at the Kitchen.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Kitchen.
+A delicious piece of cake has been left out on the table. No one is looking...
+
+>>>
+You feel no guilt whatsoever and take the cake
+
+>>>
+Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Chocolate Cake
+Grants a bonus of 2 to SKILL.
+Grants a bonus of 8 to WILL.
+
+With your items, you have a SKILL level of 7 and a WILL power of 13.
+
+>>>
+You move south, arriving at the LivingRoom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the LivingRoom.
+You notice the cushion on the couch is covering something
+
+>>>
+You move east, arriving at the Bathroom.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Bathroom.
+You see a tooth brush sitting there on the counter. You begin to feel a temptation...
+
+>>>
+You picked up the toothbrush and managed to brush your teeth
+
+>>>
+Check what?
+
+Chocolate Cake
+Grants a bonus of 2 to SKILL.
+Grants a bonus of 8 to WILL.
+
+>>>
+#00: Chocolate Cake       - Take the cake from the kitchen table. [COMPLETED] 
+#01: Tooth Brush          - Brush your teeth. [COMPLETED]
+#02: Comfy Pillow         - Make your bed. 
+#03: Good Movie           - Move the cushion.
+
+>>>
+Check what?
+
+Tooth Brush
+Grants a bonus of 5 to SKILL.
+Grants a bonus of 0 to WILL.
+
+>>>
+Bye!
+
+
+
+

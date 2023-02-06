@@ -1,0 +1,6 @@
+Chocolate Cake | CAKE | 2 | 8
+Tooth Brush | BRUSH | 5 | 0
+Comfy Pillow | PILLOW | 5 | 7
+Good Movie | MOVIE | 1 | 9
+Fancy Shirt | SHIRT | 10 | 0
+

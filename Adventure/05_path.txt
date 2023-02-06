@@ -1,0 +1,8 @@
+Hallway > NORTH > LivingRoom
+LivingRoom > NORTH > Kitchen
+LivingRoom > WEST > Bedroom
+LivingRoom > EAST > Bathroom
+LivingRoom > SOUTH > Hallway
+Kitchen > SOUTH > LivingRoom
+Bedroom > EAST > LivingRoom
+Bathroom > WEST > LivingRoom

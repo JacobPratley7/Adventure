@@ -1,0 +1,52 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Garden.
+There is nothing in this room.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Garden.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the north, arriving at the Plaza.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Plaza.
+There is nothing in this room.
+
+>>> You can't go that way.
+
+>>> 
+=== All quests complete! Congratulations! ===

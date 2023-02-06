@@ -1,0 +1,7 @@
+NORTH
+W
+EAST
+E
+W
+SOUTH
+QUIT

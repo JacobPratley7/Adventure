@@ -1,0 +1,4 @@
+S
+CRY
+HELP
+QUIT

@@ -1,0 +1,86 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>>
+You move north and arrive at the Main.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Main.
+There is nothing in this room.
+
+>>>
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Main.
+There is nothing in this room.
+
+>>>
+You move west and arrive at the Left.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Left.
+There is nothing in this room.
+
+>>>
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Left.
+There is nothing in this room.
+
+>>>
+
+=== All quests complete! Congratulations! ===
+
+

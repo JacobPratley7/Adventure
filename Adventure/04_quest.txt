@@ -1,0 +1,7 @@
+Chocolate Cake | TAKE CAKE | Take the cake from the kitchen table | A delicious piece of cake has been left out on the table. No one is looking... | An empty table stands in the kitchen, devoid of cake. | WILL 5 | You struggle to overcome the guilt of taking the cake and leave it there. | You feel no guilt whatsoever and take the cake | Kitchen
+
+Tooth Brush | BRUSH TEETH | Brush your teeth | You see a tooth brush sitting there on the counter. You begin to feel a temptation... | there is nothing of interest in here | SKILL 7 | You were unable to figure out how the tooth brush works, and hence did not brush your teeth | You picked up the toothbrush and managed to brush your teeth | Bathroom 
+
+Comfy Pillow | MAKE BED | Make your bed | You notice that your bed is a mess... | Your bed is nice and clean | WILL 10 | The enormity of the mess intimidates you, you lose your motivation to clean the bed | You summoned all your strength and successfuly cleaned your bed, and found a nice pillow while doing so | Bedroom
+
+Good Movie | MOVE CUSHION | Move the cushion | You notice that the cushion on the couch is covering something | There is nothing of interest here | SKILL 9 | The size of the cushion scares you, you decide to just leave it be | In a valiant effort, you moved the cushion and found a good movie | LivingRoom

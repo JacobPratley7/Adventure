@@ -1,0 +1,83 @@
+
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++--------------------+
+You are standing at the Hallway.
+There is nothing in this room.
+
+>>>
+You move north, arriving at the LivingRoom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the LivingRoom.
+You notice the cushion on the couch is covering something
+
+>>>
+You move north, arriving at the Kitchen.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    | 
+|                    | 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the Kitchen.
+A delicious piece of cake has been left out on the table. No one is looking...
+
+>>>
+You feel no guilt whatsoever and take the cake
+
+>>>
+You move south, arriving at the LivingRoom.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    | 
+W                    E 
+|                    |
+|                    |
+|                    | 
+|                    |
++---------SS---------+
+You are standing at the LivingRoom.
+You notice the cushion on the couch is covering something
+
+>>>
+The size of the cushion scares you, you decide to just leave it be
+
+>>>
+You cant't do that.
+
+>>>
+Bye!
+
+
+
+
+
